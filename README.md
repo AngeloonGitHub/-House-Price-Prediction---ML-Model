@@ -19,5 +19,5 @@ Ce projet utilise l'apprentissage automatique pour prédire le prix des maisons 
 ## 🛠️ Installation et Exécution  
 ### 1️⃣ Cloner le repo  
 ```bash
-git clone https://github.com/votre_nom/House-Price-Prediction.git
+git clone https://github.com/AngeloonGitHub/-House-Price-Prediction---ML-Model.git
 cd House-Price-Prediction
